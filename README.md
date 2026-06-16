@@ -108,4 +108,8 @@ Open the frontend (default `http://localhost:5173`), paste a job description, an
 
 ## License
 
-MIT
+Proprietary — All Rights Reserved
+
+This repository is publicly visible for portfolio and evaluation purposes only.
+
+No permission is granted to use, copy, modify, distribute, sublicense, or create derivative works from this code without explicit written permission from the author.
